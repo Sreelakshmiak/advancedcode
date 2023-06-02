@@ -1,0 +1,5 @@
+package com.bootsecurity.resources;
+
+public class EmployeeResource {
+
+}

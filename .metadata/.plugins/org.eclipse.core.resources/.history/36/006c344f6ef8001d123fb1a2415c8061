@@ -1,0 +1,5 @@
+package com.RabbitMQ.consumer;
+
+public class PurchaseOrderConsumer {
+
+}

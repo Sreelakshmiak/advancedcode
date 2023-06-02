@@ -1,0 +1,5 @@
+package com.bootsecurity.filters;
+
+public class JwtRequestFilter {
+
+}

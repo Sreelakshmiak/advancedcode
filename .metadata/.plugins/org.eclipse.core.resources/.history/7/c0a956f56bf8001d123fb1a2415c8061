@@ -1,0 +1,5 @@
+package com.RabbitMQ.publisher;
+
+public class PurchaseOrderPublisher {
+
+}

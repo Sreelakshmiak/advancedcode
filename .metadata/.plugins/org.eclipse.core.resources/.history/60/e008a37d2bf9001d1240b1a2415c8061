@@ -1,0 +1,5 @@
+package com.bootsecurity.config;
+
+public class EmpSecurityConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.helloclient.resources;
+
+public class HelloClientResources {
+
+}

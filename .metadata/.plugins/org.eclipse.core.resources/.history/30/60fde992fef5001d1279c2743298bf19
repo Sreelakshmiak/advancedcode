@@ -1,0 +1,5 @@
+package com.helloservice.resource;
+
+public class HelloService {
+
+}

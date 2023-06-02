@@ -1,0 +1,9 @@
+package com.RabbitMQ.config;
+@Configuration
+public class MessagingConfig {
+	public static final String QUEUE="ust_global";
+	public static final String EXCHANGE="ust_exchange";
+	public static final String ROUTING_KEY="ust_routingKey";
+	@Bean
+	public Queue 
+}

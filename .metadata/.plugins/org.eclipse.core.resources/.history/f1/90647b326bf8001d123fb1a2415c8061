@@ -1,0 +1,8 @@
+package com.RabbitMQ.model;
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+public class PurchaseOrder {
+
+}
